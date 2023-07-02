@@ -6,7 +6,15 @@
     * telegram: @Vasilllisssa
 
 ## Summary
-   
+I work as an engineer for a building company. I’m responsible for estimation of how much it costs to build a house. 
+I like my job, but unfortunately nothing has changed in this sphere for many years. 
+I have climbed the career ladder in my working environment, and I feel there aren’t any opportunities to grow. 
+I’m a life-long learner. Thus, I strive to follow another way: to develop every day, explore new things 
+and make a difference in people’s lives. Becoming a front-end developer is my ambition and I’m going to do 
+my utmost to reach this goal. I’m well organized and excellent at planning. I’m a cheerful, ambitious, open-minded, 
+initiative, inquisitive, reliable, determined and goal-oriented person. 
+I’m fond of reading. I’m keen on such sports as tennis, swimming, snowboarding, ultimate frisbee, cycling, fitness. 
+I hope my tenacity and burning desire will help me to become a front-end developer.   
 
 ## Skills
     HTML, CSS, JS, GIT
