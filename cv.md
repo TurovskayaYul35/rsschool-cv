@@ -49,4 +49,5 @@ function towelSort (matrix) {
 * Belarusian National Technical University, 2012
 * Course JavaScript/DOM/Interfaces for beginners, [JavaScript.info](https://javascript.info/)
 
-
+## English
+ B1 (pre-intermediate)
